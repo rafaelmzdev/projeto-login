@@ -2,7 +2,7 @@
 
 @media screen and (max-width: 768px) {
     div.campo > input{
-        transform: translateY(-5.9px);
+        transform: translateY(-6.2px);
     }
 }
 
